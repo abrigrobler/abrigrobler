@@ -1,10 +1,6 @@
 Hi, I'm Abri Grobler
 
-I am a web developer, mostly front end, with expertise in React, vanilla JS, HTML, and CSS. I am also working on a portfolio, which will enable me to
-freelance more frequently.
-
-I am also a student working towards my Master's Degree in Engineering, in which I am focussing on Reinforcement Learning,
-specifically in the areas of multi agent reinforcement learning (MARL) and the options framework.
+I am a software engineer with expertise in React, React Native, Typescript, CSS, Node, and Python. My public repositories include the work done for my undergraduate and Masters in Engineering degrees projects, and some early stage web projects that I worked on as a learning project. 
 
 <!---
 abrigrobler/abrigrobler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
